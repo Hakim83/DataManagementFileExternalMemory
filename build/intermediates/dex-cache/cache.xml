@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\DataManagementFileExternalMemory\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7293898b95f63309dbac59599d20eee31f72f29">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\DataManagementFileExternalMemory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_535c18bf8ea395a76ecf406067ce9ca71e5d6d3f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\DataManagementFileExternalMemory\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="66affc53522c567257f36c26c4e40fe777ded867">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\DataManagementFileExternalMemory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1c65af4af9542afe5a1fcee3c0f7d2789445c06f\classes.dex" />
+    </item>
+
+</items>
